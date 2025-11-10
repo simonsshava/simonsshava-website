@@ -54,7 +54,7 @@ body {
   align-items: center;
   padding: 100px 50px;
   min-height: 100vh;
-  background: url('images/Photoroom-20241123_131118.png') no-repeat center center/cover;
+  background: url('Photoroom-20241123_131118.png') no-repeat center center/cover;
 }
 
 /* Optional overlay for contrast */
@@ -254,4 +254,5 @@ footer {
   .contact-form button {
     width: 100%;
   }
+
 }
